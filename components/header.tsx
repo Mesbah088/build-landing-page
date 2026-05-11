@@ -22,29 +22,29 @@ export default function Header() {
             হোম
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
-            সেবা
+            ডেমো
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
-            বৈশিষ্ট্যসমূহ
+            ফিচারসমূহ 
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
-            মূল্য পরিকল্পনা
+            মুল পরিকল্পনা
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
-            সাইটম্যাপ নাম
+            লাইফটাইম প্ল্যান
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
             গ্রাহক
           </Link>
           <Link href="#" className="text-sm text-foreground hover:text-primary transition-colors">
-            সংযোগাযোগ
+            যোগাযোগ
           </Link>
         </div>
 
         {/* CTA Button */}
         <div className="flex items-center gap-2">
           <Button variant="default" size="sm" className="bg-primary text-primary-foreground hover:bg-primary/90">
-            যোগ দিন
+            ডেমো দেখুন
           </Button>
         </div>
       </nav>
