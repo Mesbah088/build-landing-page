@@ -7,9 +7,10 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Ecomtara - ই-কমার্স SaaS প্ল্যাটফর্ম',
+  
+  title: 'Ecomtara',
   description: 'আপনার ই-কমার্স ব্যবসার জন্য সম্পূর্ণ SaaS সমাধান। সহজ, ইন্টিগ্রেশন, CRM এবং ডেলিভারি ম্যানেজমেন্ট সহ।',
-  generator: 'v0.app',
+  
   icons: {
     icon: [
       {
